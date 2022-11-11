@@ -1,2 +1,2 @@
-# noob
+# MultiBoard
 for studying
